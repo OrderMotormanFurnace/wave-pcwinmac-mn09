@@ -1,4 +1,4 @@
-# 
+# 新 Wave 扩展 Mac OS版 | 原生 Wave 扩展 PC Windows版。集成 税费计算 和 退税估算，跨平台性能最大化。
 
 
 
